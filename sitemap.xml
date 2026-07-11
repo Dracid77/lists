@@ -11,6 +11,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://dracid77.github.io/lists/search/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://dracid77.github.io/lists/upcoming-movies/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
