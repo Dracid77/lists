@@ -7,6 +7,21 @@ X-WR-CALNAME:Upcoming Series · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:mwf5y0hhg01m@dracids-lists
+DTSTAMP:20261113T160022Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:The Spot (Hulu)
+DESCRIPTION:A successful surgeon and her school teacher husband suspect sh
+ e might be responsible for a child's hit-and-run death. While looking int
+ o the matter\, dark secrets are revealed that will test their relationshi
+ p as they confront the possibility of hidden guilt and betrayal.\n\nhttps
+ ://www.themoviedb.org/tv/262788
+URL:https://www.themoviedb.org/tv/262788
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mw3t34rmt31r@dracids-lists
 DTSTAMP:20261105T171458Z
 DTSTART;VALUE=DATE:20261114
@@ -66,6 +81,20 @@ DESCRIPTION:This equal parts survival epic\, psychological horror story an
   tracking the lives they’ve attempted to piece back together nearly 25 
  years later.\n\nhttps://www.themoviedb.org/tv/117488
 URL:https://www.themoviedb.org/tv/117488
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwf5obfpjk82@dracids-lists
+DTSTAMP:20261113T155250Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:The Witch Farm (BBC One)
+DESCRIPTION:Follows Bill and Liz Rich who move to a remote Welsh farmhouse
+  in 1989 for a fresh start\, but after Liz sees a ghostly figure during a
+  traumatic home birth\, they face escalating paranormal disturbances.\n\n
+ https://www.themoviedb.org/tv/340566
+URL:https://www.themoviedb.org/tv/340566
 CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -132,6 +161,22 @@ DESCRIPTION:Toos and her husband\, Gerrit van der Valk\, run the largest h
  acking days\, Toos and her family fought for survival—and for each othe
  r.\n\nhttps://www.themoviedb.org/tv/302837
 URL:https://www.themoviedb.org/tv/302837
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwf5vl40m7jb@dracids-lists
+DTSTAMP:20261113T155829Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Ritus (ARD)
+DESCRIPTION:On the Night of the Moon’s Turning\, the body of a teenage g
+ irl who has been missing for 18 years surfaces in a lake – intact\, as 
+ if time had preserved her. The clues lead to an ancient ritual that has b
+ een carried out for millennia deep beneath the surface of a mountain. An 
+ eternal cycle that operates in secret - and exacts its price.\n\nhttps://
+ www.themoviedb.org/tv/341774
+URL:https://www.themoviedb.org/tv/341774
 CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
