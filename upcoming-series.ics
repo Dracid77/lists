@@ -7,21 +7,6 @@ X-WR-CALNAME:Upcoming Series · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mwf5y0hhg01m@dracids-lists
-DTSTAMP:20261113T160022Z
-DTSTART;VALUE=DATE:20260113
-DTEND;VALUE=DATE:20260114
-SUMMARY:The Spot (Hulu)
-DESCRIPTION:A successful surgeon and her school teacher husband suspect sh
- e might be responsible for a child's hit-and-run death. While looking int
- o the matter\, dark secrets are revealed that will test their relationshi
- p as they confront the possibility of hidden guilt and betrayal.\n\nhttps
- ://www.themoviedb.org/tv/262788
-URL:https://www.themoviedb.org/tv/262788
-CATEGORIES:Upcoming Series
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mw3t34rmt31r@dracids-lists
 DTSTAMP:20261105T171458Z
 DTSTART;VALUE=DATE:20261114
@@ -499,6 +484,21 @@ DESCRIPTION:Follow the story of two friends\, Leo Patterson and Ricky Lawl
  \, heists\, and tragic romance are the order of the day\, but will anyone
   make it out alive?\n\nhttps://www.themoviedb.org/tv/243214
 URL:https://www.themoviedb.org/tv/243214
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwf5y0hhg01m@dracids-lists
+DTSTAMP:20261113T161156Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:The Spot (Hulu)
+DESCRIPTION:A successful surgeon and her school teacher husband suspect sh
+ e might be responsible for a child's hit-and-run death. While looking int
+ o the matter\, dark secrets are revealed that will test their relationshi
+ p as they confront the possibility of hidden guilt and betrayal.\n\nhttps
+ ://www.themoviedb.org/tv/262788
+URL:https://www.themoviedb.org/tv/262788
 CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
