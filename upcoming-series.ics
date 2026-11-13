@@ -7,19 +7,6 @@ X-WR-CALNAME:Upcoming Series · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:muzr7tgiijq9@dracids-lists
-DTSTAMP:20261008T163150Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:El crimen de Pazos AKA Murder in Galicia (Netflix)
-DESCRIPTION:In Pazos\, Irene is brutally attacked\, and Civil Guard sergea
- nt Elías suspects her husband Aniceto\, racing against time to uncover t
- he truth before it’s too late.\n\nhttps://www.themoviedb.org/tv/303182
-URL:https://www.themoviedb.org/tv/303182
-CATEGORIES:Upcoming Series
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mw3t34rmt31r@dracids-lists
 DTSTAMP:20261105T171458Z
 DTSTART;VALUE=DATE:20261114
