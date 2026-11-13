@@ -36843,23 +36843,6 @@ CATEGORIES:2026 Released Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mw9j0twdwe2u@dracids-lists
-DTSTAMP:20261109T171951Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Catch A Killer (VOD)
-DESCRIPTION:When Otto's derailed on his way to becoming the city’s young
- est detective\, he stays in the police business as a bioremediation speci
- alist cleaning up after a serial killer. With an uncanny knowledge of hor
- ror films and his natural​-born instincts\, Otto​\, and ​his pregna
- nt girlfriend Lex​\, crack the code to where the killer is going to str
- ike next…now they just gotta catch him.\n\nhttps://www.themoviedb.org/m
- ovie/1281772
-URL:https://www.themoviedb.org/movie/1281772
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:muzr7tgiijq9@dracids-lists
 DTSTAMP:20261008T163150Z
 DTSTART;VALUE=DATE:20261113
@@ -36870,21 +36853,6 @@ DESCRIPTION:In Pazos\, Irene is brutally attacked\, and Civil Guard sergea
  he truth before it’s too late.\n\nhttps://www.themoviedb.org/tv/303182
 URL:https://www.themoviedb.org/tv/303182
 CATEGORIES:Upcoming Series
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mw56fqlgfu7s@dracids-lists
-DTSTAMP:20261106T161627Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Frostbite (VOD)
-DESCRIPTION:A "controlled” avalanche blast goes terribly wrong\, and env
- ironmental officer Martia and her family find themselves trapped under th
- e ice in a crashed cable car. Battling their wounds\, the cold\, and inne
- r demons\, they soon learn that\, just as bad as they want out\, somethin
- g wants in.\n\nhttps://www.themoviedb.org/movie/1481529
-URL:https://www.themoviedb.org/movie/1481529
-CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -37030,6 +36998,21 @@ DESCRIPTION:A bride-to-be with a secret agenda returns to her hometown\, u
  sing her wedding plans to manipulate everyone in her orbit.\n\nhttps://ww
  w.themoviedb.org/movie/1453227
 URL:https://www.themoviedb.org/movie/1453227
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mw56fqlgfu7s@dracids-lists
+DTSTAMP:20261113T054353Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Frostbite (VOD)
+DESCRIPTION:A "controlled” avalanche blast goes terribly wrong\, and env
+ ironmental officer Martia and her family find themselves trapped under th
+ e ice in a crashed cable car. Battling their wounds\, the cold\, and inne
+ r demons\, they soon learn that\, just as bad as they want out\, somethin
+ g wants in.\n\nhttps://www.themoviedb.org/movie/1481529
+URL:https://www.themoviedb.org/movie/1481529
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
