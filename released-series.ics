@@ -3726,4 +3726,21 @@ URL:https://www.themoviedb.org/tv/303182
 CATEGORIES:2026 Released Series
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:mw3t34rmt31r@dracids-lists
+DTSTAMP:20261105T171458Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Honey (BBC One)
+DESCRIPTION:East Berlin\, 1982. Marta\, 24\, is a deep cover agent for MI6
+ . Surrounded by enemies and constantly under threat of her cover being bl
+ own\, she tries her hardest to avoid detection by Friedrich Bauman\, the 
+ new Head of Counter Espionage for the Stasi. Finding herself caught betwe
+ en Friedrich and the reckless\, arrogant (and incredibly attractive…) C
+ IA operative Aaron Neeland\, she is blind-sided by desire in this Cold Wa
+ r menage-a-trois.\n\nhttps://www.themoviedb.org/tv/287296
+URL:https://www.themoviedb.org/tv/287296
+CATEGORIES:2026 Released Series
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
