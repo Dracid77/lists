@@ -1,0 +1,85 @@
+{
+ "name": "Dracid's Lists",
+ "short_name": "D-Lists",
+ "description": "Movies and series as they reach streaming and VOD: upcoming and released lists, a release calendar and search, picked by hand.",
+ "id": "./",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#080f1c",
+ "theme_color": "#0a1220",
+ "lang": "en",
+ "dir": "ltr",
+ "categories": [
+  "entertainment"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Release calendar",
+   "short_name": "Calendar",
+   "url": "calendar",
+   "icons": [
+    {
+     "src": "icons/icon-192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+    }
+   ]
+  },
+  {
+   "name": "Search all lists",
+   "short_name": "Search",
+   "url": "search",
+   "icons": [
+    {
+     "src": "icons/icon-192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+    }
+   ]
+  },
+  {
+   "name": "Upcoming Movies",
+   "url": "upcoming-movies",
+   "icons": [
+    {
+     "src": "icons/icon-192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+    }
+   ]
+  },
+  {
+   "name": "Upcoming Series",
+   "url": "upcoming-series",
+   "icons": [
+    {
+     "src": "icons/icon-192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+    }
+   ]
+  }
+ ]
+}
