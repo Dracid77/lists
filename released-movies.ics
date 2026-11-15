@@ -8891,4 +8891,18 @@ URL:https://www.themoviedb.org/movie/1757324
 CATEGORIES:2026 Released Movies
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:mv89cpkpcsyt@dracids-lists
+DTSTAMP:20261115T004428Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:The Beast
+DESCRIPTION:When a militia of unidentified hostiles coordinates a coup aga
+ inst the United States\, the president must fight back by utilizing the h
+ ighly classified offensive capabilities of his armored limousine\, nickna
+ med The Beast.\n\nhttps://www.themoviedb.org/movie/1185344
+URL:https://www.themoviedb.org/movie/1185344
+CATEGORIES:2026 Released Movies
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
