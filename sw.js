@@ -1,6 +1,6 @@
 // Dracid's Lists: the pages and data the network first, the last copy when there is none; the posters kept.
 // Written by the export (qBit Player's My Lists). To take it out: replace with self.registration.unregister();
-var V = 'dl1', PAGES = 'dl-pages-' + V, PICS = 'dl-pics-' + V, KEEP = 400;
+var V = 'dl1', PAGES = 'dl-pages-' + V, PICS = 'dl-pics-' + V, KEEP = 400, NOC = {}, NOC_DAYS = 7;
 var scope = new URL(self.registration.scope);
 self.addEventListener('install', function(e) {
 self.skipWaiting();
@@ -38,6 +38,9 @@ if (u.hostname === 'image.tmdb.org') {
 e.respondWith(caches.open(PICS).then(function(c) {
 return c.match(r.url).then(function(m) {
 if (m) return m;
+var nk = r.url + '?no-cors';
+return (NOC[r.url] ? Promise.resolve(1) : c.match(nk).then(function(x) { return x && Date.now() - (+x.headers.get('x-at') || 0) < NOC_DAYS * 86400000 ? 1 : 0; })).then(function(no) {
+if (no) { NOC[r.url] = 1; return fetch(r); }
 return fetch(r.url, { mode: 'cors', credentials: 'omit' }).then(function(res) {
 if (res && res.ok) {
 c.put(r.url, res.clone()).then(function() { return c.keys(); }).then(function(ks) {
@@ -45,7 +48,12 @@ if (ks.length > KEEP) ks.slice(0, ks.length - KEEP).forEach(function(k) { c.dele
 }).catch(function() {});
 }
 return res;
-}, function() { return fetch(r); });
+}, function() {
+NOC[r.url] = 1;
+c.put(nk, new Response('', { headers: { 'x-at': String(Date.now()) } })).catch(function() {});
+return fetch(r);
+});
+});
 });
 }).catch(function() { return fetch(r); }));
 }
