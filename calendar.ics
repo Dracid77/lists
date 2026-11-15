@@ -36918,6 +36918,20 @@ CATEGORIES:2026 Released Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mv89cpkpcsyt@dracids-lists
+DTSTAMP:20261115T004428Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:The Beast
+DESCRIPTION:When a militia of unidentified hostiles coordinates a coup aga
+ inst the United States\, the president must fight back by utilizing the h
+ ighly classified offensive capabilities of his armored limousine\, nickna
+ med The Beast.\n\nhttps://www.themoviedb.org/movie/1185344
+URL:https://www.themoviedb.org/movie/1185344
+CATEGORIES:2026 Released Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mvl4ujpbgajw@dracids-lists
 DTSTAMP:20261023T153635Z
 DTSTART;VALUE=DATE:20261117
@@ -36943,20 +36957,6 @@ DESCRIPTION:When Duke goes on a frenzy of reckless deepfake creations\, hi
  ctim and ruin their life… or end it.\n\nhttps://www.themoviedb.org/movi
  e/1401433
 URL:https://www.themoviedb.org/movie/1401433
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mv89cpkpcsyt@dracids-lists
-DTSTAMP:20261014T152141Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:The Beast (VOD)
-DESCRIPTION:When a militia of unidentified hostiles coordinates a coup aga
- inst the United States\, the president must fight back by utilizing the h
- ighly classified offensive capabilities of his armored limousine\, nickna
- med The Beast.\n\nhttps://www.themoviedb.org/movie/1185344
-URL:https://www.themoviedb.org/movie/1185344
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
