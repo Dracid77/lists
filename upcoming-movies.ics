@@ -36,6 +36,22 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:muvf1znmbhxo@dracids-lists
+DTSTAMP:20261116T180717Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Rolling Loud: The Movie (VOD)
+DESCRIPTION:Desperate to reconnect with his 13-year-old son\, Hank secretl
+ y takes him to Rolling Loud against his wife's wishes. When Zion disappea
+ rs inside the massive festival\, Hank teams with two unlikely allies and 
+ plunges into an increasingly insane search—while hiding the truth from 
+ his wife and confronting the harder truth that his son is growing up.\n\n
+ https://www.themoviedb.org/movie/1336166
+URL:https://www.themoviedb.org/movie/1336166
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:msosv79oo4bx@dracids-lists
 DTSTAMP:20260811T151308Z
 DTSTART;VALUE=DATE:20261118
@@ -188,22 +204,6 @@ DESCRIPTION:After weather grounds all flights east for the holidays\, two
  ntry road trip that brings them closer together in ways they never imagin
  ed.\n\nhttps://www.themoviedb.org/movie/1611767
 URL:https://www.themoviedb.org/movie/1611767
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mwf585ze7gzp@dracids-lists
-DTSTAMP:20261113T154016Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Winter of the Crow (VOD)
-DESCRIPTION:Warsaw\, 1981. Martial law shuts down the country\, turning it
-  into a prison overnight. Taxis are replaced by tanks\, citizens are trea
- ted like criminals\, and visiting British Professor Joan Andrews finds he
- rself trapped. After witnessing the murder of a young student by the secr
- et police\, Joan herself becomes the target.\n\nhttps://www.themoviedb.or
- g/movie/1212310
-URL:https://www.themoviedb.org/movie/1212310
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -382,6 +382,23 @@ DESCRIPTION:The intertwined lives of three men in three different eras\, t
  hree lives intimately linked by sexuality and desire\, pain\, and legacy.
  \n\nhttps://www.themoviedb.org/movie/1422041
 URL:https://www.themoviedb.org/movie/1422041
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwjkwoq34clw@dracids-lists
+DTSTAMP:20261116T181019Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Perfectly Imperfect (VOD)
+DESCRIPTION:Jake\, a by the numbers single dad\, sets off on a cruise with
+  his quirky family and his childhood friend Reuben. Onboard\, he unexpect
+ edly crosses paths with Meg\, a woman he once had an awkward date with on
+  the mainland. As they get a second chance to connect\, Jake and Meg disc
+ over that while neither of them is perfect\, they might actually be perfe
+ ctly imperfect for each other.\n\nhttps://www.themoviedb.org/movie/133705
+ 5
+URL:https://www.themoviedb.org/movie/1337055
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -572,6 +589,19 @@ DESCRIPTION:When eccentric young governess Winifred Notty arrives at a rem
  uspect she isn't who she claims to be—but the truth may be far more dan
  gerous than they imagine.\n\nhttps://www.themoviedb.org/movie/1379486
 URL:https://www.themoviedb.org/movie/1379486
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwjkm5e2znx6@dracids-lists
+DTSTAMP:20261116T180207Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Give Me Some Sugah (Netflix)
+DESCRIPTION:A Chicago bakery owner is stunned by a miraculous discovery th
+ at challenges her to reclaim lost time\, heal old wounds\, and find purpo
+ se in the unexpected.\n\nhttps://www.themoviedb.org/movie/1559982
+URL:https://www.themoviedb.org/movie/1559982
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT

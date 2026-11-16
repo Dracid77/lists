@@ -8905,4 +8905,20 @@ URL:https://www.themoviedb.org/movie/1185344
 CATEGORIES:2026 Released Movies
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:mwf585ze7gzp@dracids-lists
+DTSTAMP:20261116T180620Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Winter of the Crow (VOD)
+DESCRIPTION:Warsaw\, 1981. Martial law shuts down the country\, turning it
+  into a prison overnight. Taxis are replaced by tanks\, citizens are trea
+ ted like criminals\, and visiting British Professor Joan Andrews finds he
+ rself trapped. After witnessing the murder of a young student by the secr
+ et police\, Joan herself becomes the target.\n\nhttps://www.themoviedb.or
+ g/movie/1212310
+URL:https://www.themoviedb.org/movie/1212310
+CATEGORIES:2026 Released Movies
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

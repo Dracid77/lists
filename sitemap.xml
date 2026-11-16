@@ -66,6 +66,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dracid77.github.io/lists/movie/1336166-rolling-loud-the-movie</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dracid77.github.io/lists/movie/1131943-madden</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -112,11 +117,6 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1611767-clashing-through-the-snow</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/movie/1212310-winter-of-the-crow</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -186,6 +186,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dracid77.github.io/lists/movie/1337055-perfectly-imperfect</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dracid77.github.io/lists/movie/1125627-dreamquil</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -242,6 +247,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1379486-victorian-psycho</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1559982-give-me-some-sugah</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -477,6 +487,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/273240-off-campus-s2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1212310-winter-of-the-crow</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
