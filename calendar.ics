@@ -37707,6 +37707,22 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwjsxw3lpywa@dracids-lists
+DTSTAMP:20261116T215512Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Klara and the Sun (VOD)
+DESCRIPTION:When Klara\, an Artificial Friend who wants nothing more than 
+ to find the perfect home\, meets Josie\, each immediately senses a kindre
+ d spirit in the other. Josie has a fraught relationship with her mother a
+ nd they've suffered great loss\, but Klara's innocent wonder and unwaveri
+ ng loyalty begin to heal the family and bring light to Josie's complicate
+ d world.\n\nhttps://www.themoviedb.org/movie/858035
+URL:https://www.themoviedb.org/movie/858035
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mtit1hsnfn9n@dracids-lists
 DTSTAMP:20260901T151107Z
 DTSTART;VALUE=DATE:20261209
