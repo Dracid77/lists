@@ -486,6 +486,19 @@ CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwkxybabxqe5@dracids-lists
+DTSTAMP:20261117T170316Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:3 Body Problem S02 (Netflix)
+DESCRIPTION:Across continents and decades\, five brilliant friends make ea
+ rth-shattering discoveries as the laws of science unravel and an existent
+ ial threat emerges.\n\nhttps://www.themoviedb.org/tv/108545
+URL:https://www.themoviedb.org/tv/108545
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mv2furw0q4ed@dracids-lists
 DTSTAMP:20261010T133704Z
 DTSTART;VALUE=DATE:20270120
@@ -576,6 +589,21 @@ DESCRIPTION:Didi and Ren are two ex-child prodigies who have been together
  ver when the heroes get together. In life\, surely\, that is just the beg
  inning?\n\nhttps://www.themoviedb.org/tv/289549
 URL:https://www.themoviedb.org/tv/289549
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwkyox52hhyv@dracids-lists
+DTSTAMP:20261117T172358Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Einstein (CBS)
+DESCRIPTION:Brilliant but directionless\, the great grandson of Albert Ein
+ stein spends his days as a comfortably tenured professor until his bad bo
+ y antics land him in trouble with the law and he is pressed into service 
+ helping a local police detective solve her most puzzling cases.\n\nhttps:
+ //www.themoviedb.org/tv/289566
+URL:https://www.themoviedb.org/tv/289566
 CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT

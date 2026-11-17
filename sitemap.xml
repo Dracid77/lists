@@ -446,6 +446,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dracid77.github.io/lists/tv/108545-3-body-problem-s2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dracid77.github.io/lists/tv/285887-bloodaxe</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -472,6 +477,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/289549-prodigies</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/tv/289566-einstein</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
