@@ -36887,6 +36887,20 @@ CATEGORIES:2026 Released Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwjxex866g3n@dracids-lists
+DTSTAMP:20261117T000025Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Infamy (HBO Max)
+DESCRIPTION:A troubled lawyer becomes obsessed with solving a decades-old 
+ disappearance\, forcing her to confront her childhood trauma and powerful
+  forces determined to keep the truth buried.\n\nhttps://www.themoviedb.or
+ g/tv/315222
+URL:https://www.themoviedb.org/tv/315222
+CATEGORIES:2026 Released Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwf29dtwew42@dracids-lists
 DTSTAMP:20261113T141714Z
 DTSTART;VALUE=DATE:20261113
