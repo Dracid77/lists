@@ -61,16 +61,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dracid77.github.io/lists/movie/1084409-a-talent-for-murder</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/movie/1336166-rolling-loud-the-movie</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dracid77.github.io/lists/movie/1131943-madden</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -492,6 +482,16 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/273240-off-campus-s2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1084409-a-talent-for-murder</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1336166-rolling-loud-the-movie</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
