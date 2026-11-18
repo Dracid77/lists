@@ -116,6 +116,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dracid77.github.io/lists/movie/1765072-you-can-see-everything</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dracid77.github.io/lists/movie/1280115-way-of-the-warrior-kid</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -351,6 +356,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dracid77.github.io/lists/tv/72748-strike-s7</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dracid77.github.io/lists/tv/250670-maxton-hall-the-world-between-us-s3</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -387,6 +397,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/210178-black-snow-s3</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/tv/339650-the-day</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

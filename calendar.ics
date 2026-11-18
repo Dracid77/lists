@@ -37317,6 +37317,21 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwmjeg7guc6r@dracids-lists
+DTSTAMP:20261118T195127Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:You Can See Everything (VOD)
+DESCRIPTION:Thirty-four days before she's sent to prison\, notorious Silic
+ on Valley founder Elizabeth Holmes invites a skeptical film crew to docum
+ ent her every move. What begins as an intimate portrait of an enigmatic f
+ elon becomes a mind-bending three-year journey into the abyss.\n\nhttps:/
+ /www.themoviedb.org/movie/1765072
+URL:https://www.themoviedb.org/movie/1765072
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mrzevitdirey@dracids-lists
 DTSTAMP:20260724T204714Z
 DTSTART;VALUE=DATE:20261125
@@ -37659,6 +37674,22 @@ DESCRIPTION:The film centers on Gino\, whose traditional Italian family Ch
  ng alive.\n\nhttps://www.themoviedb.org/movie/1629109
 URL:https://www.themoviedb.org/movie/1629109
 CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwmjw24n4d2j@dracids-lists
+DTSTAMP:20261118T200509Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Strike S07 (BBC One)
+DESCRIPTION:A war veteran turned private detective operates out of a tiny 
+ office in London’s Denmark Street. Although wounded both physically and
+  psychologically\, his unique insight and background as a military police
+  investigator prove crucial in solving complex crimes that have baffled t
+ he police. Based on the bestselling novels written by J.K. Rowling under 
+ the pseudonym Robert Galbraith.\n\nhttps://www.themoviedb.org/tv/72748
+URL:https://www.themoviedb.org/tv/72748
+CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -38023,6 +38054,20 @@ DESCRIPTION:Unsolved murders\, missing people\, cold cases. How do you cop
  nted by his personal quest to find his younger brother\, who vanished whe
  n they were children.\n\nhttps://www.themoviedb.org/tv/210178
 URL:https://www.themoviedb.org/tv/210178
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwmjiux24ale@dracids-lists
+DTSTAMP:20261118T195453Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:The Day (Paramount+)
+DESCRIPTION:Police stumble upon a bank robbery mid-heist\, and the crimina
+ ls barricade themselves inside. A hostage negotiator battles time and mou
+ nting pressure to save the hostages during a tense siege.\n\nhttps://www.
+ themoviedb.org/tv/339650
+URL:https://www.themoviedb.org/tv/339650
 CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -200,6 +200,21 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwmjeg7guc6r@dracids-lists
+DTSTAMP:20261118T195127Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:You Can See Everything (VOD)
+DESCRIPTION:Thirty-four days before she's sent to prison\, notorious Silic
+ on Valley founder Elizabeth Holmes invites a skeptical film crew to docum
+ ent her every move. What begins as an intimate portrait of an enigmatic f
+ elon becomes a mind-bending three-year journey into the abyss.\n\nhttps:/
+ /www.themoviedb.org/movie/1765072
+URL:https://www.themoviedb.org/movie/1765072
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mt37lfvoi7m4@dracids-lists
 DTSTAMP:20260821T171414Z
 DTSTART;VALUE=DATE:20261125
