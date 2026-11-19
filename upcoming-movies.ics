@@ -7,34 +7,6 @@ X-WR-CALNAME:Upcoming Movies · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mvfec1rob3bw@dracids-lists
-DTSTAMP:20261019T151531Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Bird in Hand (VOD)
-DESCRIPTION:A bride-to-be with a secret agenda returns to her hometown\, u
- sing her wedding plans to manipulate everyone in her orbit.\n\nhttps://ww
- w.themoviedb.org/movie/1453227
-URL:https://www.themoviedb.org/movie/1453227
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mw56fqlgfu7s@dracids-lists
-DTSTAMP:20261113T054353Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Frostbite (VOD)
-DESCRIPTION:A "controlled” avalanche blast goes terribly wrong\, and env
- ironmental officer Martia and her family find themselves trapped under th
- e ice in a crashed cable car. Battling their wounds\, the cold\, and inne
- r demons\, they soon learn that\, just as bad as they want out\, somethin
- g wants in.\n\nhttps://www.themoviedb.org/movie/1481529
-URL:https://www.themoviedb.org/movie/1481529
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mur54x3mhxos@dracids-lists
 DTSTAMP:20261002T155134Z
 DTSTART;VALUE=DATE:20261120

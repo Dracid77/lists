@@ -7,20 +7,6 @@ X-WR-CALNAME:Upcoming Series · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mst62w8vaycz@dracids-lists
-DTSTAMP:20260814T163407Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:The Altruists (Netflix)
-DESCRIPTION:Follow the tumultuous romance between FTX co-founder Sam Bankm
- an-Fried and his girlfriend Caroline Ellison and their ambitious attempts
-  to revolutionize the financial system\, leading to a $36 billion fraud.\
- n\nhttps://www.themoviedb.org/tv/308007
-URL:https://www.themoviedb.org/tv/308007
-CATEGORIES:Upcoming Series
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mt365qai3z9j@dracids-lists
 DTSTAMP:20260821T163401Z
 DTSTART;VALUE=DATE:20261121

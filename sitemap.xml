@@ -56,16 +56,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dracid77.github.io/lists/movie/1453227-bird-in-hand</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/movie/1481529-frostbite</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dracid77.github.io/lists/movie/1615596-best-pancakes-in-the-county</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -277,11 +267,6 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/701244-the-take</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/tv/308007-the-altruists</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3542,6 +3527,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1065661-chaperone</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/tv/308007-the-altruists</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
