@@ -37151,9 +37151,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mt365qai3z9j@dracids-lists
-DTSTAMP:20260821T163401Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTAMP:20261119T175406Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
 SUMMARY:Yellowjackets S04 (Paramount+ with Showtime)
 DESCRIPTION:This equal parts survival epic\, psychological horror story an
  d coming-of-age drama tells the saga of a team of wildly talented high sc
@@ -37912,6 +37912,21 @@ CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mw56fqlgfu7s@dracids-lists
+DTSTAMP:20261119T174328Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Frostbite (VOD)
+DESCRIPTION:A "controlled” avalanche blast goes terribly wrong\, and env
+ ironmental officer Martia and her family find themselves trapped under th
+ e ice in a crashed cable car. Battling their wounds\, the cold\, and inne
+ r demons\, they soon learn that\, just as bad as they want out\, somethin
+ g wants in.\n\nhttps://www.themoviedb.org/movie/1481529
+URL:https://www.themoviedb.org/movie/1481529
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwf5207nptdp@dracids-lists
 DTSTAMP:20261113T153529Z
 DTSTART;VALUE=DATE:20261218
@@ -37983,6 +37998,19 @@ DESCRIPTION:A team of geologists uncover a strange anomaly buried deep in
  https://www.themoviedb.org/movie/1517753
 URL:https://www.themoviedb.org/movie/1517753
 CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwnuinxke01h@dracids-lists
+DTSTAMP:20261119T175026Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:The Åre Murders S02 (Netflix)
+DESCRIPTION:Two resourceful yet troubled detectives investigate a series o
+ f crimes in the snowy resort town of Åre.\n\nhttps://www.themoviedb.org/
+ tv/224021
+URL:https://www.themoviedb.org/tv/224021
+CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

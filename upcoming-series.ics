@@ -8,9 +8,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:mt365qai3z9j@dracids-lists
-DTSTAMP:20260821T163401Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTAMP:20261119T175406Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
 SUMMARY:Yellowjackets S04 (Paramount+ with Showtime)
 DESCRIPTION:This equal parts survival epic\, psychological horror story an
  d coming-of-age drama tells the saga of a team of wildly talented high sc
@@ -324,6 +324,19 @@ DESCRIPTION:There is nothing special about Harry Potter - at least that's
  nture comes great risk as Harry is forced to face a dangerous enemy from 
  his past.\n\nhttps://www.themoviedb.org/tv/224377
 URL:https://www.themoviedb.org/tv/224377
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwnuinxke01h@dracids-lists
+DTSTAMP:20261119T175026Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:The Åre Murders S02 (Netflix)
+DESCRIPTION:Two resourceful yet troubled detectives investigate a series o
+ f crimes in the snowy resort town of Åre.\n\nhttps://www.themoviedb.org/
+ tv/224021
+URL:https://www.themoviedb.org/tv/224021
 CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
