@@ -506,6 +506,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dracid77.github.io/lists/movie/1536236-last-shot</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dracid77.github.io/lists/movie/1481529-frostbite</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
