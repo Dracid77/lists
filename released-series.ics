@@ -3786,4 +3786,21 @@ URL:https://www.themoviedb.org/tv/308007
 CATEGORIES:2026 Released Series
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:mt365qai3z9j@dracids-lists
+DTSTAMP:20261119T175406Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Yellowjackets S04 (Paramount+ with Showtime)
+DESCRIPTION:This equal parts survival epic\, psychological horror story an
+ d coming-of-age drama tells the saga of a team of wildly talented high sc
+ hool girls soccer players who become the (un)lucky survivors of a plane c
+ rash deep in the remote northern wilderness. The series chronicles their 
+ descent from a complicated but thriving team to savage clans\, while also
+  tracking the lives they’ve attempted to piece back together nearly 25 
+ years later.\n\nhttps://www.themoviedb.org/tv/117488
+URL:https://www.themoviedb.org/tv/117488
+CATEGORIES:2026 Released Series
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

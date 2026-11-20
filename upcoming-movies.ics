@@ -478,21 +478,6 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mw56fqlgfu7s@dracids-lists
-DTSTAMP:20261119T174328Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:Frostbite (VOD)
-DESCRIPTION:A "controlled” avalanche blast goes terribly wrong\, and env
- ironmental officer Martia and her family find themselves trapped under th
- e ice in a crashed cable car. Battling their wounds\, the cold\, and inne
- r demons\, they soon learn that\, just as bad as they want out\, somethin
- g wants in.\n\nhttps://www.themoviedb.org/movie/1481529
-URL:https://www.themoviedb.org/movie/1481529
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mwf5207nptdp@dracids-lists
 DTSTAMP:20261113T153529Z
 DTSTART;VALUE=DATE:20261218
