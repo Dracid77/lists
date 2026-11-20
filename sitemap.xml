@@ -56,11 +56,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dracid77.github.io/lists/movie/1615596-best-pancakes-in-the-county</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dracid77.github.io/lists/movie/1359254-transplant</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -467,6 +462,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/273240-off-campus-s2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1615596-best-pancakes-in-the-county</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
