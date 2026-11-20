@@ -348,6 +348,23 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mu73a5q1i80p@dracids-lists
+DTSTAMP:20261120T161623Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Grin (VOD)
+DESCRIPTION:While visiting her family\, Eva is introduced to her mother’
+ s new partner\, Lucian. When the group play Lucian’s mysterious old boa
+ rd game for the first time\, they begin to believe it has summoned a demo
+ nic entity that punishes those who have committed terrible sins. After a 
+ series of terrifying encounters\, the players begin going missing one by 
+ one. Eva soon realizes the game is more deadly than she could ever have i
+ magined.\n\nhttps://www.themoviedb.org/movie/1711808
+URL:https://www.themoviedb.org/movie/1711808
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwf5ew8yrfgi@dracids-lists
 DTSTAMP:20261113T154530Z
 DTSTART;VALUE=DATE:20261208
@@ -419,6 +436,21 @@ DESCRIPTION:The story kicks off on Christmas Eve morning when a man unexpe
  is confession to an unrelated\, seemingly impossible-to-solve closed case
  \n\nhttps://www.themoviedb.org/movie/1623160
 URL:https://www.themoviedb.org/movie/1623160
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwp5tll5xvr3@dracids-lists
+DTSTAMP:20261120T155438Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:I Play Rocky (VOD)
+DESCRIPTION:The electrifying true story about an unknown actor with an uns
+ hakable belief that he wasn't just meant to write Rocky—he was meant to
+  be Rocky Balboa. Told "no" at every turn\, Sylvester Stallone bets every
+ thing on himself\, holding the line on playing the lead against seemingly
+  impossible odds.\n\nhttps://www.themoviedb.org/movie/1286656
+URL:https://www.themoviedb.org/movie/1286656
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -547,6 +579,20 @@ DESCRIPTION:An elderly miser embarks on a supernatural journey after visit
  ight for a second chance at happiness.\n\nhttps://www.themoviedb.org/movi
  e/1567605
 URL:https://www.themoviedb.org/movie/1567605
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwp5ufe666cy@dracids-lists
+DTSTAMP:20261120T155516Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:The Hunger Games: Sunrise on the Reaping (VOD)
+DESCRIPTION:Return to the world of Panem 24 years before the events of The
+  Hunger Games\, starting on the morning of the reaping of the 50th Hunger
+  Games\, also known as the Second Quarter Quell.\n\nhttps://www.themovied
+ b.org/movie/1300968
+URL:https://www.themoviedb.org/movie/1300968
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
