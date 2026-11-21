@@ -7,20 +7,6 @@ X-WR-CALNAME:Upcoming Movies · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mvtrqm84yk5o@dracids-lists
-DTSTAMP:20261029T163933Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Transplant (VOD)
-DESCRIPTION:A motivated surgical resident pushes himself to extreme length
- s while training under a legendary heart transplant surgeon who's obsesse
- d with protecting his perfect reputation.\n\nhttps://www.themoviedb.org/m
- ovie/1359254
-URL:https://www.themoviedb.org/movie/1359254
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mwbcp0pnpiwu@dracids-lists
 DTSTAMP:20261110T235815Z
 DTSTART;VALUE=DATE:20261123
@@ -172,6 +158,22 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mvl4zvp9pcfq@dracids-lists
+DTSTAMP:20261121T100613Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Street Fighter (VOD)
+DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
+ rown back into combat when the mysterious Chun-Li recruits them for the n
+ ext World Warrior Tournament: a brutal clash of fists\, fate\, and fury. 
+ But behind this battle royale lies a deadly conspiracy that forces them t
+ o face off against each other and the demons of their past. And if they d
+ on't\, it's GAME OVER!\n\nhttps://www.themoviedb.org/movie/1153576
+URL:https://www.themoviedb.org/movie/1153576
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mur5t17olzoa@dracids-lists
 DTSTAMP:20261002T161019Z
 DTSTART;VALUE=DATE:20261127
@@ -181,22 +183,6 @@ DESCRIPTION:As cholera threatens to ravage the city of Paris in 1830\, a h
  unchback hunted for medical experiments is caught between political turmo
  il and impossible love.\n\nhttps://www.themoviedb.org/movie/1480665
 URL:https://www.themoviedb.org/movie/1480665
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mvl4zvp9pcfq@dracids-lists
-DTSTAMP:20261023T154044Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Street Fighter (VOD)
-DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
- rown back into combat when the mysterious Chun-Li recruits them for the n
- ext World Warrior Tournament: a brutal clash of fists\, fate\, and fury. 
- But behind this battle royale lies a deadly conspiracy that forces them t
- o face off against each other and the demons of their past. And if they d
- on't\, it's GAME OVER!\n\nhttps://www.themoviedb.org/movie/1153576
-URL:https://www.themoviedb.org/movie/1153576
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -436,6 +422,25 @@ DESCRIPTION:The story kicks off on Christmas Eve morning when a man unexpe
  is confession to an unrelated\, seemingly impossible-to-solve closed case
  \n\nhttps://www.themoviedb.org/movie/1623160
 URL:https://www.themoviedb.org/movie/1623160
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwq8p6n7l83c@dracids-lists
+DTSTAMP:20261121T100257Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Punaista Lunta AKA Red Snow (Shudder)
+DESCRIPTION:In Finland\, sixteen-year-old emo teen Johanna dreams of a gli
+ ttering Twilight vampire prince. What she gets instead is Martti — a ba
+ lding\, beer-bellied 49-year-old bloodsucker who slips into a Santa suit 
+ to gain entry to homes and devour entire families. When Johanna crosses p
+ aths with Martti on Christmas Eve\, she thinks her dark fairy tale has co
+ me true. But instead of eternal romance\, she finds herself trapped in a 
+ bloody and horrific nightmare of aging masculine toxicity\, family trauma
+ \, and festive slaughter. By morning\, the snow will turn red.\n\nhttps:/
+ /www.themoviedb.org/movie/1015887
+URL:https://www.themoviedb.org/movie/1015887
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT

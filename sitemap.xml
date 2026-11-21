@@ -56,11 +56,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dracid77.github.io/lists/movie/1359254-transplant</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dracid77.github.io/lists/movie/1611767-clashing-through-the-snow</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -106,17 +101,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dracid77.github.io/lists/movie/1153576-street-fighter</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dracid77.github.io/lists/movie/1506401-el-nino</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1480665-the-hunchback-soul-of-paris</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/movie/1153576-street-fighter</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -197,6 +192,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1623160-en-nombre-de-otro</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1015887-punaista-lunta</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -297,6 +297,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/302837-toos-the-van-der-valk-kidnapping</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/tv/244447-the-hunting-wives-s2</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

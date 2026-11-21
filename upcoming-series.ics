@@ -80,6 +80,19 @@ CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwq8js9fvv9x@dracids-lists
+DTSTAMP:20261121T095845Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:The Hunting Wives S02 (Netflix)
+DESCRIPTION:Sophie trades New England for East Texas and falls into a weal
+ thy socialite's magnetic orbit — where a clique of housewives hide dead
+ ly secrets.\n\nhttps://www.themoviedb.org/tv/244447
+URL:https://www.themoviedb.org/tv/244447
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mvzhjxhnm6g4@dracids-lists
 DTSTAMP:20261102T164102Z
 DTSTART;VALUE=DATE:20261126
