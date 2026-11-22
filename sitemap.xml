@@ -111,6 +111,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dracid77.github.io/lists/movie/939541-christmas-at-the-kringles</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dracid77.github.io/lists/movie/1137888-the-man-with-the-bag</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -227,6 +232,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1381273-paper-tiger</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1585239-club-kid</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -457,6 +467,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/291339-memory-of-a-killer-s2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/tv/318274-embassy</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

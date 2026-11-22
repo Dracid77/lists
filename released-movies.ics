@@ -8910,7 +8910,7 @@ UID:mwf585ze7gzp@dracids-lists
 DTSTAMP:20261116T180620Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:Winter of the Crow (VOD)
+SUMMARY:Winter of the Crow
 DESCRIPTION:Warsaw\, 1981. Martial law shuts down the country\, turning it
   into a prison overnight. Taxis are replaced by tanks\, citizens are trea
  ted like criminals\, and visiting British Professor Joan Andrews finds he
@@ -9104,7 +9104,7 @@ UID:mvzvfrd4cth5@dracids-lists
 DTSTAMP:20261102T230942Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:The Last Temptation of Becky (VOD)
+SUMMARY:The Last Temptation of Becky
 DESCRIPTION:Now working as a field agent for the CIA\, Becky is sent under
  cover to Poland to infiltrate a family of innkeepers running a tourist ve
  nture at The Wolf's Lair\, Hitler's WWII bunker. After learning that the 
@@ -9117,7 +9117,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mv13l3osno7y@dracids-lists
-DTSTAMP:20261122T074953Z
+DTSTAMP:20261122T092245Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Fjord

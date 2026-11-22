@@ -598,6 +598,21 @@ CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwrmrdva7i45@dracids-lists
+DTSTAMP:20261122T092438Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Embassy (MGM+)
+DESCRIPTION:When the Embassy in London is attacked\, a U.S. diplomat faces
+  an impossible choice: protect the Ambassador or follow orders to extract
+  a high-value asset. As a deeper conspiracy unfolds\, she must team up wi
+ th her ex\, a British SAS soldier.\n\nhttps://www.themoviedb.org/tv/31827
+ 4
+URL:https://www.themoviedb.org/tv/318274
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwdt0pg72z3w@dracids-lists
 DTSTAMP:20261112T171046Z
 DTSTART;VALUE=DATE:20270209

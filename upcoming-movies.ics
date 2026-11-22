@@ -169,6 +169,21 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwrmh9r6vvkz@dracids-lists
+DTSTAMP:20261122T091628Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Christmas at the Kringles (VOD)
+DESCRIPTION:After moving to a quiet suburban neighborhood\, the Seversons 
+ meet the Kringles\, a family that celebrates Christmas year-round. When M
+ ark\, the father\, discovers the Kringles' sinister yuletide intentions\,
+  he teams up with a badass Santa in a high-stakes\, action-packed fight t
+ o save his family.\n\nhttps://www.themoviedb.org/movie/939541
+URL:https://www.themoviedb.org/movie/939541
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mtfgwartbd4r@dracids-lists
 DTSTAMP:20260830T070751Z
 DTSTART;VALUE=DATE:20261202
@@ -508,6 +523,19 @@ DESCRIPTION:In 1960\, Fidel Castro comes to America to speak at the UN. He
  iminate him by any means necessary.\n\nhttps://www.themoviedb.org/movie/1
  213643
 URL:https://www.themoviedb.org/movie/1213643
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwrmls5m4y3r@dracids-lists
+DTSTAMP:20261122T091959Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Club Kid (VOD)
+DESCRIPTION:A hard-partying New York City club promoter sees his whirlwind
+  lifestyle upended by the arrival of the 10-year-old son he never knew he
+  had.\n\nhttps://www.themoviedb.org/movie/1585239
+URL:https://www.themoviedb.org/movie/1585239
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
