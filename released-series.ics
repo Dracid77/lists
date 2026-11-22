@@ -3803,4 +3803,18 @@ URL:https://www.themoviedb.org/tv/117488
 CATEGORIES:2026 Released Series
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:mwf5obfpjk82@dracids-lists
+DTSTAMP:20261113T155250Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:The Witch Farm (BBC One)
+DESCRIPTION:Follows Bill and Liz Rich who move to a remote Welsh farmhouse
+  in 1989 for a fresh start\, but after Liz sees a ghostly figure during a
+  traumatic home birth\, they face escalating paranormal disturbances.\n\n
+ https://www.themoviedb.org/tv/340566
+URL:https://www.themoviedb.org/tv/340566
+CATEGORIES:2026 Released Series
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

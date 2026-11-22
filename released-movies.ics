@@ -9014,7 +9014,7 @@ UID:mur54x3mhxos@dracids-lists
 DTSTAMP:20261002T155134Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Best Pancakes in the County (VOD)
+SUMMARY:Best Pancakes in the County
 DESCRIPTION:Over the course of one explosive night\, a small-town diner be
  comes the epicenter of a deadly standoff involving rogue federal agents\,
   a fast-talking con man with a dangerous past\, and a waitress harboring 
@@ -9089,20 +9089,12 @@ DTSTAMP:20260925T155539Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Perfectos mentirosos AKA Perfect Liars (Prime Video)
-DESCRIPTION:Bienvenidos a Tagus\, donde el poder\, el privilegio y los sec
- retos mortales se esconden tras fachadas perfectas. Jude Derry llega a es
- ta exclusiva universidad con una misión oculta: infiltrarse en el círcu
- lo de los hermanos Cash para descubrir la verdad sobre la muerte de su he
- rmano. Los tres herederos del imperio familiar\, Aegan\, el carismático 
- y calculador primogénito\, Adrik\, el enigmático y misterioso hermano m
- ediano\, y Alex\, el rebelde e impredecible hermano pequeño\, dominan Ta
- gus con un magnetismo al que nadie puede resistirse. Lo que comienza como
-  una venganza personal se transforma en un peligroso triángulo de seducc
- ión\, atracción prohibida y mentiras cuando Jude queda envuelta en la c
- ompleja dinámica familiar de los Cash. Con cada pista que descubre\, se 
- acerca más a una verdad que podría no solo destruir a la poderosa famil
- ia… sino también desvelar secretos que quizás ella misma no está pre
- parada para enfrentar.\n\nhttps://www.themoviedb.org/movie/1568060
+DESCRIPTION:Jude Derry arrives at the exclusive Tagus university with a hi
+ dden mission: to infiltrate the circle of the Cash brothers and uncover t
+ he truth about her brother's death. What begins as revenge turns into a d
+ angerous triangle of seduction\, forbidden attraction and lies\, drawing 
+ her toward a truth she may not be ready to face.\n\nhttps://www.themovied
+ b.org/movie/1568060
 URL:https://www.themoviedb.org/movie/1568060
 CATEGORIES:2026 Released Movies
 TRANSP:TRANSPARENT
@@ -9120,6 +9112,24 @@ DESCRIPTION:Now working as a field agent for the CIA\, Becky is sent under
  , Becky takes matters into her own hands.\n\nhttps://www.themoviedb.org/m
  ovie/1642568
 URL:https://www.themoviedb.org/movie/1642568
+CATEGORIES:2026 Released Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mv13l3osno7y@dracids-lists
+DTSTAMP:20261122T074953Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Fjord
+DESCRIPTION:Following the deaths of Mihai's parents\, Mihai and Lisbeth Gh
+ eorghiu leave their life behind in Romania and move with their children t
+ o a remote village in Norway\, hoping to rebuild their lives near Lisbeth
+ 's family. There\, they grow close to their neighbors\, the Halbergs\, wh
+ ose warmth gives them hope for a fresh start. But the fragile peace begin
+ s to unravel when the Gheorghiu family’s young daughter\, Elia\, arrive
+ s at school covered in bruises.\n\nhttps://www.themoviedb.org/movie/14014
+ 59
+URL:https://www.themoviedb.org/movie/1401459
 CATEGORIES:2026 Released Movies
 TRANSP:TRANSPARENT
 END:VEVENT

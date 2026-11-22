@@ -61,11 +61,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dracid77.github.io/lists/movie/1401459-fjord</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dracid77.github.io/lists/movie/1195803-wicker</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -267,11 +262,6 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/701244-the-take</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/tv/340566-the-witch-farm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -502,6 +492,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/273240-off-campus-s2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1401459-fjord</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3597,6 +3592,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1065661-chaperone</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/tv/340566-the-witch-farm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
