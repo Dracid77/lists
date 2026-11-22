@@ -37277,6 +37277,23 @@ CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwsfd727tu3c@dracids-lists
+DTSTAMP:20261122T224507Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Pacifico (Netflix)
+DESCRIPTION:Pacífico follows a group of divers who travel to Malpelo Isla
+ nd to embark on the adventure of a lifetime. During their final dive\, th
+ ey disappear into the Pacific Ocean when a powerful current pulls them ap
+ art and carries them in different directions. With no boat\, no sense of 
+ direction\, and hundreds of miles from land\, each must face an unforgivi
+ ng ocean. Meanwhile\, those searching for them can only try to guess wher
+ e they might be.\n\nhttps://www.themoviedb.org/movie/1791526
+URL:https://www.themoviedb.org/movie/1791526
+CATEGORIES:2026 Released Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mvsbed6nhd7g@dracids-lists
 DTSTAMP:20261028T161421Z
 DTSTART;VALUE=DATE:20261124
@@ -37844,6 +37861,22 @@ DESCRIPTION:When Klara\, an Artificial Friend who wants nothing more than
  ng loyalty begin to heal the family and bring light to Josie's complicate
  d world.\n\nhttps://www.themoviedb.org/movie/858035
 URL:https://www.themoviedb.org/movie/858035
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwsfhu0soxrd@dracids-lists
+DTSTAMP:20261122T224844Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Whalefall (VOD)
+DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
+ ff the central Coast of California in search of his remains\, but is swal
+ lowed by a massive sperm whale. While trapped inside its belly with only 
+ one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
+ ns his father imparted may be the key to his escape.\n\nhttps://www.themo
+ viedb.org/movie/1255833
+URL:https://www.themoviedb.org/movie/1255833
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT

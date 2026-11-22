@@ -181,6 +181,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dracid77.github.io/lists/movie/1255833-whalefall</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dracid77.github.io/lists/movie/1625106-permafrost</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -507,6 +512,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/273240-off-campus-s2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1791526-pacifico</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

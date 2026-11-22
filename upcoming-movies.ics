@@ -380,6 +380,22 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwsfhu0soxrd@dracids-lists
+DTSTAMP:20261122T224844Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Whalefall (VOD)
+DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
+ ff the central Coast of California in search of his remains\, but is swal
+ lowed by a massive sperm whale. While trapped inside its belly with only 
+ one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
+ ns his father imparted may be the key to his escape.\n\nhttps://www.themo
+ viedb.org/movie/1255833
+URL:https://www.themoviedb.org/movie/1255833
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwcaszptjnfg@dracids-lists
 DTSTAMP:20261111T155307Z
 DTSTART;VALUE=DATE:20261210
