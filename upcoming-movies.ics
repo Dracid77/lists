@@ -7,20 +7,6 @@ X-WR-CALNAME:Upcoming Movies · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mwbcp0pnpiwu@dracids-lists
-DTSTAMP:20261110T235815Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Clashing Through the Snow (Prime Video)
-DESCRIPTION:After weather grounds all flights east for the holidays\, two 
- work rivals competing for the same job begrudgingly embark on a cross-cou
- ntry road trip that brings them closer together in ways they never imagin
- ed.\n\nhttps://www.themoviedb.org/movie/1611767
-URL:https://www.themoviedb.org/movie/1611767
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mvsbed6nhd7g@dracids-lists
 DTSTAMP:20261028T161421Z
 DTSTART;VALUE=DATE:20261124
@@ -49,20 +35,6 @@ DESCRIPTION:When Lord Murashige rises up against the tyrannical Oda\, he f
  d uncover the truth before time runs out.\n\nhttps://www.themoviedb.org/m
  ovie/1620313
 URL:https://www.themoviedb.org/movie/1620313
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mw2etdkec3r8@dracids-lists
-DTSTAMP:20261104T174742Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:The Social Reckoning (VOD)
-DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help 
- of Jeff Horwitz\, a Wall Street Journal reporter\, to go on a dangerous j
- ourney that ends up blowing the whistle on the social network's most guar
- ded secrets.\n\nhttps://www.themoviedb.org/movie/1281331
-URL:https://www.themoviedb.org/movie/1281331
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT

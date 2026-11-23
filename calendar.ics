@@ -37245,7 +37245,7 @@ DESCRIPTION:In French Polynesia\, after a shipwreck\, nine environmental a
  rom the past\, the group's cohesion threatens to shatter.\n\nhttps://www.
  themoviedb.org/tv/302464
 URL:https://www.themoviedb.org/tv/302464
-CATEGORIES:Upcoming Series
+CATEGORIES:2026 Released Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -37259,7 +37259,7 @@ DESCRIPTION:After weather grounds all flights east for the holidays\, two
  ntry road trip that brings them closer together in ways they never imagin
  ed.\n\nhttps://www.themoviedb.org/movie/1611767
 URL:https://www.themoviedb.org/movie/1611767
-CATEGORIES:Upcoming Movies
+CATEGORIES:2026 Released Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -37273,7 +37273,7 @@ DESCRIPTION:Follow four women who work at an archeological dig in Greece.
   history\, they find themselves at the center of a high-stakes internatio
  nal conspiracy.\n\nhttps://www.themoviedb.org/tv/290826
 URL:https://www.themoviedb.org/tv/290826
-CATEGORIES:Upcoming Series
+CATEGORIES:2026 Released Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -37290,6 +37290,20 @@ DESCRIPTION:Pacífico follows a group of divers who travel to Malpelo Isla
  ng ocean. Meanwhile\, those searching for them can only try to guess wher
  e they might be.\n\nhttps://www.themoviedb.org/movie/1791526
 URL:https://www.themoviedb.org/movie/1791526
+CATEGORIES:2026 Released Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mw2etdkec3r8@dracids-lists
+DTSTAMP:20261123T152855Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:The Social Reckoning
+DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help 
+ of Jeff Horwitz\, a Wall Street Journal reporter\, to go on a dangerous j
+ ourney that ends up blowing the whistle on the social network's most guar
+ ded secrets.\n\nhttps://www.themoviedb.org/movie/1281331
+URL:https://www.themoviedb.org/movie/1281331
 CATEGORIES:2026 Released Movies
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -37322,20 +37336,6 @@ DESCRIPTION:When Lord Murashige rises up against the tyrannical Oda\, he f
  d uncover the truth before time runs out.\n\nhttps://www.themoviedb.org/m
  ovie/1620313
 URL:https://www.themoviedb.org/movie/1620313
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mw2etdkec3r8@dracids-lists
-DTSTAMP:20261104T174742Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:The Social Reckoning (VOD)
-DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help 
- of Jeff Horwitz\, a Wall Street Journal reporter\, to go on a dangerous j
- ourney that ends up blowing the whistle on the social network's most guar
- ded secrets.\n\nhttps://www.themoviedb.org/movie/1281331
-URL:https://www.themoviedb.org/movie/1281331
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT

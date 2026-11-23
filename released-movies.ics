@@ -9134,6 +9134,20 @@ CATEGORIES:2026 Released Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwbcp0pnpiwu@dracids-lists
+DTSTAMP:20261110T235815Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Clashing Through the Snow (Prime Video)
+DESCRIPTION:After weather grounds all flights east for the holidays\, two 
+ work rivals competing for the same job begrudgingly embark on a cross-cou
+ ntry road trip that brings them closer together in ways they never imagin
+ ed.\n\nhttps://www.themoviedb.org/movie/1611767
+URL:https://www.themoviedb.org/movie/1611767
+CATEGORIES:2026 Released Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwsfd727tu3c@dracids-lists
 DTSTAMP:20261122T224507Z
 DTSTART;VALUE=DATE:20261123
@@ -9147,6 +9161,20 @@ DESCRIPTION:Pacífico follows a group of divers who travel to Malpelo Isla
  ng ocean. Meanwhile\, those searching for them can only try to guess wher
  e they might be.\n\nhttps://www.themoviedb.org/movie/1791526
 URL:https://www.themoviedb.org/movie/1791526
+CATEGORIES:2026 Released Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mw2etdkec3r8@dracids-lists
+DTSTAMP:20261123T152855Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:The Social Reckoning
+DESCRIPTION:Frances Haugen\, a young Facebook engineer\, enlists the help 
+ of Jeff Horwitz\, a Wall Street Journal reporter\, to go on a dangerous j
+ ourney that ends up blowing the whistle on the social network's most guar
+ ded secrets.\n\nhttps://www.themoviedb.org/movie/1281331
+URL:https://www.themoviedb.org/movie/1281331
 CATEGORIES:2026 Released Movies
 TRANSP:TRANSPARENT
 END:VEVENT

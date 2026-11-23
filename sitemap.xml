@@ -56,22 +56,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dracid77.github.io/lists/movie/1611767-clashing-through-the-snow</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dracid77.github.io/lists/movie/1195803-wicker</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1496696-breeder</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/movie/1281331-the-social-reckoning</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -277,16 +267,6 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/701244-the-take</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/tv/290826-dig</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/tv/302464-oro</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -512,6 +492,16 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/273240-off-campus-s2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1281331-the-social-reckoning</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1611767-clashing-through-the-snow</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3617,6 +3607,16 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1065661-chaperone</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/tv/290826-dig</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/tv/302464-oro</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

@@ -7,35 +7,6 @@ X-WR-CALNAME:Upcoming Series · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mwp7i8q1ams2@dracids-lists
-DTSTAMP:20261120T164147Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:'Oro (France 2)
-DESCRIPTION:In French Polynesia\, after a shipwreck\, nine environmental a
- ctivists find themselves trapped on an island as fascinating as it is uns
- ettling. Between unexplained phenomena\, ancestral beliefs\, and wounds f
- rom the past\, the group's cohesion threatens to shatter.\n\nhttps://www.
- themoviedb.org/tv/302464
-URL:https://www.themoviedb.org/tv/302464
-CATEGORIES:Upcoming Series
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:msotkocf3dvv@dracids-lists
-DTSTAMP:20260811T153257Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Dig (Peacock)
-DESCRIPTION:Follow four women who work at an archeological dig in Greece. 
- When the team uncovers a long-buried secret with the potential to rewrite
-  history\, they find themselves at the center of a high-stakes internatio
- nal conspiracy.\n\nhttps://www.themoviedb.org/tv/290826
-URL:https://www.themoviedb.org/tv/290826
-CATEGORIES:Upcoming Series
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mrzevitdirey@dracids-lists
 DTSTAMP:20260724T204714Z
 DTSTART;VALUE=DATE:20261125
