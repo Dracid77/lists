@@ -37414,6 +37414,20 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwtgz6tw4rm6@dracids-lists
+DTSTAMP:20261123T161759Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Big Girls Don't Cry (VOD)
+DESCRIPTION:Over one transformative summer in rural New Zealand in 2006\, 
+ 14-year-old Sid discovers desire\, identity\, and the internet as she imi
+ tates the people she longs to be loved by.\n\nhttps://www.themoviedb.org/
+ movie/1477963
+URL:https://www.themoviedb.org/movie/1477963
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mvphwwhw762f@dracids-lists
 DTSTAMP:20261026T165325Z
 DTSTART;VALUE=DATE:20261126
@@ -38102,6 +38116,20 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwth3sx6iajm@dracids-lists
+DTSTAMP:20261123T162134Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:The Canyon (VOD (Sweden))
+DESCRIPTION:A woman\, struggling to find courage in her troubled life\, fi
+ ghts for survival\, after a skydiving accident leaves her hanging from a 
+ 1000-foot-high ledge in the Grand Canyon.\n\nhttps://www.themoviedb.org/m
+ ovie/1364546
+URL:https://www.themoviedb.org/movie/1364546
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwrmls5m4y3r@dracids-lists
 DTSTAMP:20261122T091959Z
 DTSTART;VALUE=DATE:20261222
@@ -38475,6 +38503,20 @@ CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwtip5w0l7rc@dracids-lists
+DTSTAMP:20261123T170611Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:The Palace of Secrets (Netflix)
+DESCRIPTION:Julia Ponce\, daughter of a court painter\, meets crown prince
+  Gonzalo in a court filled with ambition\, deceit\, and revenge\, navigat
+ ing clandestine encounters and power struggles.\n\nhttps://www.themoviedb
+ .org/tv/296114
+URL:https://www.themoviedb.org/tv/296114
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwdt92kw8n9i@dracids-lists
 DTSTAMP:20261112T171717Z
 DTSTART;VALUE=DATE:20270127
@@ -38564,6 +38606,20 @@ DESCRIPTION:Brilliant but directionless\, the great grandson of Albert Ein
  helping a local police detective solve her most puzzling cases.\n\nhttps:
  //www.themoviedb.org/tv/289566
 URL:https://www.themoviedb.org/tv/289566
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwtigg0xl9ud@dracids-lists
+DTSTAMP:20261123T165924Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:The Age of Innocence (Netflix)
+DESCRIPTION:A fresh take on Edith Wharton's classic novel of forbidden lov
+ e in 19th century New York\, The Age Of Innocence is a will-they/won't-th
+ ey love triangle exploring themes of freedom\, duty\, identity and love i
+ n all its forms.\n\nhttps://www.themoviedb.org/tv/289730
+URL:https://www.themoviedb.org/tv/289730
 CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT

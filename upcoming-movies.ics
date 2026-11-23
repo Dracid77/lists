@@ -97,6 +97,20 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwtgz6tw4rm6@dracids-lists
+DTSTAMP:20261123T161759Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Big Girls Don't Cry (VOD)
+DESCRIPTION:Over one transformative summer in rural New Zealand in 2006\, 
+ 14-year-old Sid discovers desire\, identity\, and the internet as she imi
+ tates the people she longs to be loved by.\n\nhttps://www.themoviedb.org/
+ movie/1477963
+URL:https://www.themoviedb.org/movie/1477963
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mtx5kapdy2j7@dracids-lists
 DTSTAMP:20260911T161026Z
 DTSTART;VALUE=DATE:20261127
@@ -511,6 +525,20 @@ DESCRIPTION:In 1960\, Fidel Castro comes to America to speak at the UN. He
  iminate him by any means necessary.\n\nhttps://www.themoviedb.org/movie/1
  213643
 URL:https://www.themoviedb.org/movie/1213643
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwth3sx6iajm@dracids-lists
+DTSTAMP:20261123T162134Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:The Canyon (VOD (Sweden))
+DESCRIPTION:A woman\, struggling to find courage in her troubled life\, fi
+ ghts for survival\, after a skydiving accident leaves her hanging from a 
+ 1000-foot-high ledge in the Grand Canyon.\n\nhttps://www.themoviedb.org/m
+ ovie/1364546
+URL:https://www.themoviedb.org/movie/1364546
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
