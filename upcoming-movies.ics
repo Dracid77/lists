@@ -183,6 +183,21 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwv602j084sw@dracids-lists
+DTSTAMP:20261124T204617Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Long Day's Journey into Night (VOD)
+DESCRIPTION:Over the course of a day\, a married couple\, Mary and James T
+ yrone\, and their two sons\, Jamie and Edmund\, grapple with Mary's morph
+ ine addiction and confront each other over the past in a series of emotio
+ nally tense and volatile exchanges.\n\nhttps://www.themoviedb.org/movie/1
+ 086037
+URL:https://www.themoviedb.org/movie/1086037
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mw56bswzh0nm@dracids-lists
 DTSTAMP:20261106T161324Z
 DTSTART;VALUE=DATE:20261204
