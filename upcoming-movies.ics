@@ -7,25 +7,6 @@ X-WR-CALNAME:Upcoming Movies · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mwbcrh1zhilu@dracids-lists
-DTSTAMP:20261111T000010Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:The Samurai and the Prisoner (VOD)
-DESCRIPTION:When Lord Murashige rises up against the tyrannical Oda\, he f
- inds himself besieged within the walls of his own castle. Isolated\, he i
- s confronted with a series of mysterious crimes that shatter the fragile 
- order of his court\, plunging the fortress into fear and suspicion. With 
- Oda's army closing in and a traitor hiding among his ranks\, Murashige is
-  forced into an uneasy alliance with Kanbei\, a brilliant and dangerous s
- trategist held prisoner in the dungeon\, as he must outwit his enemies an
- d uncover the truth before time runs out.\n\nhttps://www.themoviedb.org/m
- ovie/1620313
-URL:https://www.themoviedb.org/movie/1620313
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mt37lfvoi7m4@dracids-lists
 DTSTAMP:20260821T171414Z
 DTSTART;VALUE=DATE:20261125
@@ -49,20 +30,6 @@ DESCRIPTION:Jake is an injured Navy SEAL who becomes a mentor for his shy\
   Jake teaches Marc how to be a Warrior Kid as he enters high school.\n\nh
  ttps://www.themoviedb.org/movie/1280115
 URL:https://www.themoviedb.org/movie/1280115
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mwtgz6tw4rm6@dracids-lists
-DTSTAMP:20261123T161759Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Big Girls Don't Cry (VOD)
-DESCRIPTION:Over one transformative summer in rural New Zealand in 2006\, 
- 14-year-old Sid discovers desire\, identity\, and the internet as she imi
- tates the people she longs to be loved by.\n\nhttps://www.themoviedb.org/
- movie/1477963
-URL:https://www.themoviedb.org/movie/1477963
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -122,6 +89,22 @@ DESCRIPTION:After moving to a quiet suburban neighborhood\, the Seversons
   he teams up with a badass Santa in a high-stakes\, action-packed fight t
  o save his family.\n\nhttps://www.themoviedb.org/movie/939541
 URL:https://www.themoviedb.org/movie/939541
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwsfhu0soxrd@dracids-lists
+DTSTAMP:20261124T160317Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Whalefall (VOD)
+DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
+ ff the central Coast of California in search of his remains\, but is swal
+ lowed by a massive sperm whale. While trapped inside its belly with only 
+ one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
+ ns his father imparted may be the key to his escape.\n\nhttps://www.themo
+ viedb.org/movie/1255833
+URL:https://www.themoviedb.org/movie/1255833
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -318,22 +301,6 @@ DESCRIPTION:When Klara\, an Artificial Friend who wants nothing more than
  ng loyalty begin to heal the family and bring light to Josie's complicate
  d world.\n\nhttps://www.themoviedb.org/movie/858035
 URL:https://www.themoviedb.org/movie/858035
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mwsfhu0soxrd@dracids-lists
-DTSTAMP:20261122T224844Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:Whalefall (VOD)
-DESCRIPTION:Following the death of his father\, Jay Gardiner goes diving o
- ff the central Coast of California in search of his remains\, but is swal
- lowed by a massive sperm whale. While trapped inside its belly with only 
- one hour of oxygen left\, Jay comes to realize that the hard-earned lesso
- ns his father imparted may be the key to his escape.\n\nhttps://www.themo
- viedb.org/movie/1255833
-URL:https://www.themoviedb.org/movie/1255833
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT

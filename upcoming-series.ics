@@ -88,6 +88,19 @@ CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwuwts4r9sad@dracids-lists
+DTSTAMP:20261124T163017Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Careless (Channel 4)
+DESCRIPTION:Young Scottish backpacker Robbie lands a job in Sydney as a ca
+ rer for music mogul Mike\, who has multiple sclerosis. But does Robbie ha
+ ve sinister intentions?\n\nhttps://www.themoviedb.org/tv/343048
+URL:https://www.themoviedb.org/tv/343048
+CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mw2evqzqnfqo@dracids-lists
 DTSTAMP:20261104T174933Z
 DTSTART;VALUE=DATE:20261201

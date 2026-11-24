@@ -56,22 +56,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dracid77.github.io/lists/movie/1620313-the-samurai-and-the-prisoner</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dracid77.github.io/lists/movie/1280115-way-of-the-warrior-kid</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1458300-the-mosquito-bowl</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/movie/1477963-big-girls-dont-cry</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -87,6 +77,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1480665-the-hunchback-soul-of-paris</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1255833-whalefall</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -157,11 +152,6 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1711808-grin</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/movie/1255833-whalefall</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -292,6 +282,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/294607-trinity</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/tv/343048-careless</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -497,6 +492,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/273240-off-campus-s2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1477963-big-girls-dont-cry</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
