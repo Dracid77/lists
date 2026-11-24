@@ -7,19 +7,6 @@ X-WR-CALNAME:Upcoming Movies · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mvsbed6nhd7g@dracids-lists
-DTSTAMP:20261028T161421Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Breeder (VOD)
-DESCRIPTION:An eccentric poodle breeder lures a broke college student to h
- er remote ranch with a promise of research funding. But\, as he soon lear
- ns\, there’s a catch.\n\nhttps://www.themoviedb.org/movie/1496696
-URL:https://www.themoviedb.org/movie/1496696
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mwbcrh1zhilu@dracids-lists
 DTSTAMP:20261111T000010Z
 DTSTART;VALUE=DATE:20261124
@@ -35,37 +22,6 @@ DESCRIPTION:When Lord Murashige rises up against the tyrannical Oda\, he f
  d uncover the truth before time runs out.\n\nhttps://www.themoviedb.org/m
  ovie/1620313
 URL:https://www.themoviedb.org/movie/1620313
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mvl50d0mg8ak@dracids-lists
-DTSTAMP:20261023T154107Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Wicker (VOD)
-DESCRIPTION:On the outskirts of a village by the sea\, lives a Fisherwoman
- \; smelly\, single and perpetually ridiculed. One day\, fed up with her s
- tuffy\, small-minded neighbours\, she commissions herself a husband to be
-  made from wicker. In an otherwise conservative town\, this unconventiona
- l romance sparks outrage\, jealousy and chaos.\n\nhttps://www.themoviedb.
- org/movie/1195803
-URL:https://www.themoviedb.org/movie/1195803
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mwmjeg7guc6r@dracids-lists
-DTSTAMP:20261118T195127Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:You Can See Everything (VOD)
-DESCRIPTION:Thirty-four days before she's sent to prison\, notorious Silic
- on Valley founder Elizabeth Holmes invites a skeptical film crew to docum
- ent her every move. What begins as an intimate portrait of an enigmatic f
- elon becomes a mind-bending three-year journey into the abyss.\n\nhttps:/
- /www.themoviedb.org/movie/1765072
-URL:https://www.themoviedb.org/movie/1765072
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
