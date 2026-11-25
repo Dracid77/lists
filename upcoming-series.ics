@@ -7,22 +7,6 @@ X-WR-CALNAME:Upcoming Series · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mrzevitdirey@dracids-lists
-DTSTAMP:20260724T204714Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Blade Runner 2099 (Prime Video)
-DESCRIPTION:Fifty years after the events of Blade Runner 2049\, Los Angele
- s has been reborn\, just not by humanity. Cora\, a fugitive in a final bi
- d to stop running\, takes on one last identity: a Blade Runner. Forced to
-  partner with Olwen\, a Replicant days from dying\, she hunts down a runa
- way hiding a truth that could collapse their fragile city.\n\nhttps://www
- .themoviedb.org/tv/171802
-URL:https://www.themoviedb.org/tv/171802
-CATEGORIES:Upcoming Series
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mvphwwhw762f@dracids-lists
 DTSTAMP:20261026T165325Z
 DTSTART;VALUE=DATE:20261126

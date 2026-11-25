@@ -56,16 +56,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dracid77.github.io/lists/movie/1280115-way-of-the-warrior-kid</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/movie/1458300-the-mosquito-bowl</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dracid77.github.io/lists/movie/1153576-street-fighter</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -257,11 +247,6 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/701244-the-take</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/tv/171802-blade-runner-2099</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -497,6 +482,21 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/273240-off-campus-s2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1458300-the-mosquito-bowl</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1280115-way-of-the-warrior-kid</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1620313-the-samurai-and-the-prisoner</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3632,6 +3632,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1065661-chaperone</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/tv/171802-blade-runner-2099</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

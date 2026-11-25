@@ -7,33 +7,6 @@ X-WR-CALNAME:Upcoming Movies · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mt37lfvoi7m4@dracids-lists
-DTSTAMP:20260821T171414Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:The Mosquito Bowl (Netflix)
-DESCRIPTION:In the aftermath of Pearl Harbor\, four college football stars
-  enlist in the US Marines\, discovering the strength of brotherhood and t
- he cost of war.\n\nhttps://www.themoviedb.org/movie/1458300
-URL:https://www.themoviedb.org/movie/1458300
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mq2jd4is9x8v@dracids-lists
-DTSTAMP:20260606T155648Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Way of the Warrior Kid (Apple TV+)
-DESCRIPTION:Jake is an injured Navy SEAL who becomes a mentor for his shy\
- , struggling nephew Marc. Using the principles of his military training\,
-  Jake teaches Marc how to be a Warrior Kid as he enters high school.\n\nh
- ttps://www.themoviedb.org/movie/1280115
-URL:https://www.themoviedb.org/movie/1280115
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mtx5kapdy2j7@dracids-lists
 DTSTAMP:20260911T161026Z
 DTSTART;VALUE=DATE:20261127

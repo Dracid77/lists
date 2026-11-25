@@ -9236,4 +9236,50 @@ URL:https://www.themoviedb.org/movie/1765072
 CATEGORIES:2026 Released Movies
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:mt37lfvoi7m4@dracids-lists
+DTSTAMP:20260821T171414Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:The Mosquito Bowl (Netflix)
+DESCRIPTION:In the aftermath of Pearl Harbor\, four college football stars
+  enlist in the US Marines\, discovering the strength of brotherhood and t
+ he cost of war.\n\nhttps://www.themoviedb.org/movie/1458300
+URL:https://www.themoviedb.org/movie/1458300
+CATEGORIES:2026 Released Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwbcrh1zhilu@dracids-lists
+DTSTAMP:20261125T045358Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:The Samurai and the Prisoner
+DESCRIPTION:When Lord Murashige rises up against the tyrannical Oda\, he f
+ inds himself besieged within the walls of his own castle. Isolated\, he i
+ s confronted with a series of mysterious crimes that shatter the fragile 
+ order of his court\, plunging the fortress into fear and suspicion. With 
+ Oda's army closing in and a traitor hiding among his ranks\, Murashige is
+  forced into an uneasy alliance with Kanbei\, a brilliant and dangerous s
+ trategist held prisoner in the dungeon\, as he must outwit his enemies an
+ d uncover the truth before time runs out.\n\nhttps://www.themoviedb.org/m
+ ovie/1620313
+URL:https://www.themoviedb.org/movie/1620313
+CATEGORIES:2026 Released Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mq2jd4is9x8v@dracids-lists
+DTSTAMP:20260606T155648Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Way of the Warrior Kid (Apple TV+)
+DESCRIPTION:Jake is an injured Navy SEAL who becomes a mentor for his shy\
+ , struggling nephew Marc. Using the principles of his military training\,
+  Jake teaches Marc how to be a Warrior Kid as he enters high school.\n\nh
+ ttps://www.themoviedb.org/movie/1280115
+URL:https://www.themoviedb.org/movie/1280115
+CATEGORIES:2026 Released Movies
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
