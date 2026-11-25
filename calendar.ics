@@ -38032,6 +38032,19 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwwbr27waph2@dracids-lists
+DTSTAMP:20261125T161500Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Campioni AKA The Champs (Netflix)
+DESCRIPTION:A stubborn and hotheaded minor league basketball coach is forc
+ ed to train a Special Olympics team when he is sentenced to community ser
+ vice.\n\nhttps://www.themoviedb.org/movie/1620662
+URL:https://www.themoviedb.org/movie/1620662
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwp5tll5xvr3@dracids-lists
 DTSTAMP:20261120T155438Z
 DTSTART;VALUE=DATE:20261215
@@ -38254,6 +38267,22 @@ DESCRIPTION:An elderly miser embarks on a supernatural journey after visit
  ight for a second chance at happiness.\n\nhttps://www.themoviedb.org/movi
  e/1567605
 URL:https://www.themoviedb.org/movie/1567605
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwwbjeyrnrhc@dracids-lists
+DTSTAMP:20261125T160904Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Focker In-Law (VOD)
+DESCRIPTION:Henry\, son of Greg and Pam Focker\, aims to marry Olivia\, a 
+ strong-willed former hostage negotiator who appears to be his complete mi
+ smatch. To Greg's shock\, father-in-law Jack Byrnes takes a liking to Oli
+ via\, and her unprecedented rise into his Circle of Trust sparks chaos in
+  the family before Jack's 80th birthday party.\n\nhttps://www.themoviedb.
+ org/movie/1400336
+URL:https://www.themoviedb.org/movie/1400336
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -186,6 +186,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dracid77.github.io/lists/movie/1620662-campioni</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dracid77.github.io/lists/movie/1559982-give-me-some-sugah</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -232,6 +237,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1300968-the-hunger-games-sunrise-on-the-reaping</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1400336-focker-in-law</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
