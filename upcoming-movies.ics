@@ -218,6 +218,18 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwds3fvtncw0@dracids-lists
+DTSTAMP:20261112T164454Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Ghosts: The Possession of Button House (VOD)
+DESCRIPTION:It's a matter of life and death for Alison\, Mike\, Mia and th
+ e Ghosts.\n\nhttps://www.themoviedb.org/movie/1643567
+URL:https://www.themoviedb.org/movie/1643567
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mw56o9gu4spf@dracids-lists
 DTSTAMP:20261106T162305Z
 DTSTART;VALUE=DATE:20261208
@@ -356,6 +368,24 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwxqm20aj3lq@dracids-lists
+DTSTAMP:20261126T155847Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Hershey (VOD)
+DESCRIPTION:Based on the life of Milton Hershey\, founder of the iconic He
+ rshey chocolate company. Milton's grit and determination to conquer the w
+ orld of candy-making propel him from bankruptcy to monumental success\, a
+ nd the love of his life\, Kitty\, helps him build a legacy sweeter than a
+ ny candy bar. But when Kitty falls ill\, Milton’s wild optimism teeters
+  on the edge of destruction\, and she sparks an even bolder dream: to lea
+ ve their fortune in the hands of America’s children in need.\n\nhttps:/
+ /www.themoviedb.org/movie/1461490
+URL:https://www.themoviedb.org/movie/1461490
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwp5tll5xvr3@dracids-lists
 DTSTAMP:20261120T155438Z
 DTSTART;VALUE=DATE:20261215
@@ -468,6 +498,19 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwxqhzoiklkt@dracids-lists
+DTSTAMP:20261126T155538Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Jimmy (VOD)
+DESCRIPTION:A look into the life of American actor James Stewart\, whose i
+ nspiring tale of valor\, purpose and faith will win over everyone.\n\nhtt
+ ps://www.themoviedb.org/movie/1241478
+URL:https://www.themoviedb.org/movie/1241478
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwbcxz400z4b@dracids-lists
 DTSTAMP:20261111T000513Z
 DTSTART;VALUE=DATE:20261222
@@ -570,6 +613,20 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwxqsytjohxp@dracids-lists
+DTSTAMP:20261126T160410Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:American Dollhouse (VOD)
+DESCRIPTION:Caught between a grotesque Christmas fantasy and her own child
+ hood trauma\, a woman's search for a fresh start in her hometown is viole
+ ntly interrupted by a psychopathic neighbor.\n\nhttps://www.themoviedb.or
+ g/movie/1616344
+URL:https://www.themoviedb.org/movie/1616344
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mv15vswyurcz@dracids-lists
 DTSTAMP:20261009T161010Z
 DTSTART;VALUE=DATE:20270115
@@ -594,6 +651,20 @@ DESCRIPTION:An unconventional heist movie about three people locked in a d
  eadly game of cons and double crosses.\n\nhttps://www.themoviedb.org/movi
  e/701244
 URL:https://www.themoviedb.org/movie/701244
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwxr84szvxbu@dracids-lists
+DTSTAMP:20261126T161557Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Fight for '84 (Netflix)
+DESCRIPTION:After a devastating 1980 plane crash claims America's Olympic 
+ boxing team\, a determined coach takes on the monumental task of assembli
+ ng and training new fighters for glory at the 1984 Games.\n\nhttps://www.
+ themoviedb.org/movie/1481160
+URL:https://www.themoviedb.org/movie/1481160
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT

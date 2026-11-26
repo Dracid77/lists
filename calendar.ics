@@ -38066,6 +38066,24 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwxqm20aj3lq@dracids-lists
+DTSTAMP:20261126T155847Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Hershey (VOD)
+DESCRIPTION:Based on the life of Milton Hershey\, founder of the iconic He
+ rshey chocolate company. Milton's grit and determination to conquer the w
+ orld of candy-making propel him from bankruptcy to monumental success\, a
+ nd the love of his life\, Kitty\, helps him build a legacy sweeter than a
+ ny candy bar. But when Kitty falls ill\, Milton’s wild optimism teeters
+  on the edge of destruction\, and she sparks an even bolder dream: to lea
+ ve their fortune in the hands of America’s children in need.\n\nhttps:/
+ /www.themoviedb.org/movie/1461490
+URL:https://www.themoviedb.org/movie/1461490
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwp5tll5xvr3@dracids-lists
 DTSTAMP:20261120T155438Z
 DTSTART;VALUE=DATE:20261215
@@ -38201,6 +38219,19 @@ DESCRIPTION:A hard-partying New York City club promoter sees his whirlwind
   lifestyle upended by the arrival of the 10-year-old son he never knew he
   had.\n\nhttps://www.themoviedb.org/movie/1585239
 URL:https://www.themoviedb.org/movie/1585239
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwxqhzoiklkt@dracids-lists
+DTSTAMP:20261126T155538Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Jimmy (VOD)
+DESCRIPTION:A look into the life of American actor James Stewart\, whose i
+ nspiring tale of valor\, purpose and faith will win over everyone.\n\nhtt
+ ps://www.themoviedb.org/movie/1241478
+URL:https://www.themoviedb.org/movie/1241478
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -38522,6 +38553,20 @@ CATEGORIES:Upcoming Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwxqsytjohxp@dracids-lists
+DTSTAMP:20261126T160410Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:American Dollhouse (VOD)
+DESCRIPTION:Caught between a grotesque Christmas fantasy and her own child
+ hood trauma\, a woman's search for a fresh start in her hometown is viole
+ ntly interrupted by a psychopathic neighbor.\n\nhttps://www.themoviedb.or
+ g/movie/1616344
+URL:https://www.themoviedb.org/movie/1616344
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mv15vswyurcz@dracids-lists
 DTSTAMP:20261009T161010Z
 DTSTART;VALUE=DATE:20270115
@@ -38699,6 +38744,20 @@ DESCRIPTION:A fresh take on Edith Wharton's classic novel of forbidden lov
  n all its forms.\n\nhttps://www.themoviedb.org/tv/289730
 URL:https://www.themoviedb.org/tv/289730
 CATEGORIES:Upcoming Series
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwxr84szvxbu@dracids-lists
+DTSTAMP:20261126T161557Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Fight for '84 (Netflix)
+DESCRIPTION:After a devastating 1980 plane crash claims America's Olympic 
+ boxing team\, a determined coach takes on the monumental task of assembli
+ ng and training new fighters for glory at the 1984 Games.\n\nhttps://www.
+ themoviedb.org/movie/1481160
+URL:https://www.themoviedb.org/movie/1481160
+CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
