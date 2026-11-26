@@ -37449,18 +37449,6 @@ CATEGORIES:2026 Released Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mwds3fvtncw0@dracids-lists
-DTSTAMP:20261126T045513Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Ghosts: The Possession of Button House
-DESCRIPTION:It's a matter of life and death for Alison\, Mike\, Mia and th
- e Ghosts.\n\nhttps://www.themoviedb.org/movie/1643567
-URL:https://www.themoviedb.org/movie/1643567
-CATEGORIES:2026 Released Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mvphwwhw762f@dracids-lists
 DTSTAMP:20261026T165325Z
 DTSTART;VALUE=DATE:20261126
@@ -37471,7 +37459,7 @@ DESCRIPTION:Rhiannon Lewis doesn't make much of an impression - people wal
  shed over the edge and loses control. Rhiannon's life transforms\, but ca
  n she keep her killer secret?\n\nhttps://www.themoviedb.org/tv/218347
 URL:https://www.themoviedb.org/tv/218347
-CATEGORIES:Upcoming Series
+CATEGORIES:2026 Released Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -37484,7 +37472,7 @@ DESCRIPTION:Sophie trades New England for East Texas and falls into a weal
  thy socialite's magnetic orbit — where a clique of housewives hide dead
  ly secrets.\n\nhttps://www.themoviedb.org/tv/244447
 URL:https://www.themoviedb.org/tv/244447
-CATEGORIES:Upcoming Series
+CATEGORIES:2026 Released Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -37506,7 +37494,7 @@ DESCRIPTION:Toos and her husband\, Gerrit van der Valk\, run the largest h
  acking days\, Toos and her family fought for survival—and for each othe
  r.\n\nhttps://www.themoviedb.org/tv/302837
 URL:https://www.themoviedb.org/tv/302837
-CATEGORIES:Upcoming Series
+CATEGORIES:2026 Released Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -37864,6 +37852,18 @@ DESCRIPTION:Matt Hagen's meteoric rise from Gotham street kid to Hollywood
  spiraling him down a destructive path of all-consuming revenge.\n\nhttps:
  //www.themoviedb.org/movie/1400940
 URL:https://www.themoviedb.org/movie/1400940
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwds3fvtncw0@dracids-lists
+DTSTAMP:20261112T164454Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Ghosts: The Possession of Button House (VOD)
+DESCRIPTION:It's a matter of life and death for Alison\, Mike\, Mia and th
+ e Ghosts.\n\nhttps://www.themoviedb.org/movie/1643567
+URL:https://www.themoviedb.org/movie/1643567
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
