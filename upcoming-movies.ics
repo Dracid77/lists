@@ -22,22 +22,6 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mvl4zvp9pcfq@dracids-lists
-DTSTAMP:20261121T100613Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Street Fighter (VOD)
-DESCRIPTION:In 1993\, estranged Street Fighters Ryu and Ken Masters are th
- rown back into combat when the mysterious Chun-Li recruits them for the n
- ext World Warrior Tournament: a brutal clash of fists\, fate\, and fury. 
- But behind this battle royale lies a deadly conspiracy that forces them t
- o face off against each other and the demons of their past. And if they d
- on't\, it's GAME OVER!\n\nhttps://www.themoviedb.org/movie/1153576
-URL:https://www.themoviedb.org/movie/1153576
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mur5t17olzoa@dracids-lists
 DTSTAMP:20261002T161019Z
 DTSTART;VALUE=DATE:20261127
