@@ -218,18 +218,6 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mwds3fvtncw0@dracids-lists
-DTSTAMP:20261112T164454Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Ghosts: The Possession of Button House (VOD)
-DESCRIPTION:It's a matter of life and death for Alison\, Mike\, Mia and th
- e Ghosts.\n\nhttps://www.themoviedb.org/movie/1643567
-URL:https://www.themoviedb.org/movie/1643567
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mw56o9gu4spf@dracids-lists
 DTSTAMP:20261106T162305Z
 DTSTART;VALUE=DATE:20261208
