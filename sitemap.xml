@@ -56,16 +56,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dracid77.github.io/lists/movie/1506401-el-nino</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dracid77.github.io/lists/movie/1480665-the-hunchback-soul-of-paris</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dracid77.github.io/lists/movie/1255833-whalefall</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -492,6 +482,21 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/tv/273240-off-campus-s2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1506401-el-nino</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1480665-the-hunchback-soul-of-paris</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/movie/1828828-on-the-last-day-of-christmas</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

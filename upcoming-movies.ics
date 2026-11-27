@@ -7,34 +7,6 @@ X-WR-CALNAME:Upcoming Movies · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mtx5kapdy2j7@dracids-lists
-DTSTAMP:20260911T161026Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:El niño AKA The Child (Netflix)
-DESCRIPTION:The story of Mariaje and Nicasio\, the mother and grandfather 
- of one of the children who died in a gas explosion in a town in the Basqu
- e Country in October 1980. On a journey marked by unexpected emotions\, M
- ariaje and Nicasio search for - and find - their own unique way to overco
- me their loss.\n\nhttps://www.themoviedb.org/movie/1506401
-URL:https://www.themoviedb.org/movie/1506401
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mur5t17olzoa@dracids-lists
-DTSTAMP:20261002T161019Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:The Hunchback: Soul of Paris (Netflix)
-DESCRIPTION:As cholera threatens to ravage the city of Paris in 1830\, a h
- unchback hunted for medical experiments is caught between political turmo
- il and impossible love.\n\nhttps://www.themoviedb.org/movie/1480665
-URL:https://www.themoviedb.org/movie/1480665
-CATEGORIES:Upcoming Movies
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mwrmh9r6vvkz@dracids-lists
 DTSTAMP:20261122T091628Z
 DTSTART;VALUE=DATE:20261201
