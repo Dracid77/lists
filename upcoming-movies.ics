@@ -22,6 +22,22 @@ CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mwz7a2m7ln2o@dracids-lists
+DTSTAMP:20261127T163308Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:The Night Driver (VOD)
+DESCRIPTION:Traveling salesman is desperate to return home after surviving
+  a run-in with a psychotic killer\, only to be stalked relentlessly by hi
+ m across the country and framed for several murders along the way. Kirk p
+ lays Max\, a struggling single Mom bartender with a dark past who has a b
+ rief encounter with the salesman which changes her life forever.\n\nhttps
+ ://www.themoviedb.org/movie/1547905
+URL:https://www.themoviedb.org/movie/1547905
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mwsfhu0soxrd@dracids-lists
 DTSTAMP:20261124T160317Z
 DTSTART;VALUE=DATE:20261201
@@ -108,6 +124,20 @@ DESCRIPTION:In a near future where poor air quality forces people into vir
  ace\, leading to a sinister mystery.\n\nhttps://www.themoviedb.org/movie/
  1125627
 URL:https://www.themoviedb.org/movie/1125627
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwz7g74a5jq1@dracids-lists
+DTSTAMP:20261127T163754Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Games We Play (VOD)
+DESCRIPTION:Imogen accompanies her boyfriend Jack and his two childhood be
+ st friends on a weekend getaway. There\, she must participate in a tourna
+ ment of high-stakes games\, leading her to question her sanity and her sa
+ fety.\n\nhttps://www.themoviedb.org/movie/1572423
+URL:https://www.themoviedb.org/movie/1572423
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -259,6 +289,20 @@ DESCRIPTION:Follows Marcus Tell and Ann Wilding\, the Swedish police's mos
  vestigations lead to the same dramatic conclusion: an attack during Stock
  holm's Nobel Week.\n\nhttps://www.themoviedb.org/movie/1625106
 URL:https://www.themoviedb.org/movie/1625106
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwz872m3qww6@dracids-lists
+DTSTAMP:20261127T165847Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:A Mother For An Hour (VOD)
+DESCRIPTION:A lonely young girl forms an unexpected bond with a woman who 
+ agrees to pretend to be her mother for one hour. What begins as a simple 
+ lie evolves into a powerful emotional journey about love\, identity\, and
+  sacrifice.\n\nhttps://www.themoviedb.org/movie/1770811
+URL:https://www.themoviedb.org/movie/1770811
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -607,6 +651,22 @@ DESCRIPTION:An unconventional heist movie about three people locked in a d
  eadly game of cons and double crosses.\n\nhttps://www.themoviedb.org/movi
  e/701244
 URL:https://www.themoviedb.org/movie/701244
+CATEGORIES:Upcoming Movies
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwz8irrxqrt1@dracids-lists
+DTSTAMP:20261127T170753Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Our Fault: London (Prime Video)
+DESCRIPTION:The concluding chapter of the three-part film series which sta
+ rted with My Fault: London and has been following the forbidden romance b
+ etween Noah and her stepbrother Nick. In Our Fault: London\, Noah and Nic
+ k face events that will force them to make a final decision: are they mea
+ nt to be together or should they part ways?\n\nhttps://www.themoviedb.org
+ /movie/1477319
+URL:https://www.themoviedb.org/movie/1477319
 CATEGORIES:Upcoming Movies
 TRANSP:TRANSPARENT
 END:VEVENT
