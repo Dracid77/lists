@@ -7,22 +7,6 @@ X-WR-CALNAME:Upcoming Series · Dracid's Lists
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:mwf5vl40m7jb@dracids-lists
-DTSTAMP:20261113T155829Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Ritus (ARD)
-DESCRIPTION:On the Night of the Moon’s Turning\, the body of a teenage g
- irl who has been missing for 18 years surfaces in a lake – intact\, as 
- if time had preserved her. The clues lead to an ancient ritual that has b
- een carried out for millennia deep beneath the surface of a mountain. An 
- eternal cycle that operates in secret - and exacts its price.\n\nhttps://
- www.themoviedb.org/tv/341774
-URL:https://www.themoviedb.org/tv/341774
-CATEGORIES:Upcoming Series
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mwuwts4r9sad@dracids-lists
 DTSTAMP:20261124T163017Z
 DTSTART;VALUE=DATE:20261201

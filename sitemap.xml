@@ -286,11 +286,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dracid77.github.io/lists/tv/341774-ritus</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dracid77.github.io/lists/tv/294607-trinity</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3677,6 +3672,11 @@
   </url>
   <url>
     <loc>https://dracid77.github.io/lists/movie/1065661-chaperone</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dracid77.github.io/lists/tv/341774-ritus</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
